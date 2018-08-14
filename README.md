@@ -1,2 +1,2 @@
-# my-graduation-project
-what i have do in my graduation project
+# My Graduation Project
+`Based on the PSoC mainly`
